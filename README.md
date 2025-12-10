@@ -92,7 +92,6 @@ python manage.py collectstatic
 * Telegram support xabarlarini yig‘ish
 * Admin panel
 * Statistikalar va grafiklar
-* User authentication
 * Backend ↔ Frontend integratsiyasi
 
 # License
